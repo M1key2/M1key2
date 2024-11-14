@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de Ingeniería en Software, apasionado por la tecnología y el desarrollo de soluciones innovadoras. Me motiva aprender y aplicar conocimientos en programación y diseño de sistemas para resolver problemas reales. Mi objetivo es desarrollar habilidades técnicas y prácticas para convertirme en un profesional versátil en el campo de la ingeniería de software, capaz de crear aplicaciones eficientes y escalables que generen impacto.
+Soy estudiante de Ingeniería en Software, apasionado por la tecnología y el desarrollo de soluciones innovadoras. Me motiva aprender y aplicar conocimientos en programación y diseño de sistemas para resolver problemas reales. Mi objetivo es desarrollar habilidades técnicas y prácticas para convertirme en un profesional versátil en el campo de la ingeniería de software, capaz de crear aplicaciones eficientes y escalables que generen impacto
 
 
 ## 🌐 Socials:
